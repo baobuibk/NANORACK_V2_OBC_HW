@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WHMBAYMC
 
 [Document4]
+DocumentPath=obc-v2_TREE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NMPBXPZF
+
+[Document5]
 DocumentPath=obc-v2_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRRTIEWF
 
-[Document5]
+[Document6]
 DocumentPath=obc-v2_OUT-eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAVUOZJY
 
-[Document6]
+[Document7]
 DocumentPath=obc-v2_TMP-eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGXICKIL
 
-[Document7]
+[Document8]
 DocumentPath=obc-v2_RTC-WDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODNZIDEY
 
-[Document8]
+[Document9]
 DocumentPath=obc-v2_FRAM-FLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEFKVFDT
 
-[Document9]
+[Document10]
 DocumentPath=obc-v2_BOARD-CONNECT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICPVTLJJ
 
-[Document10]
+[Document11]
 DocumentPath=obc-v2_GADGET-CONNECT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVRWDGDH
 
-[Document11]
+[Document12]
 DocumentPath=obc-v2_DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJKKYRDL
 
-[Document12]
+[Document13]
 DocumentPath=obc-v2_USB-HUB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UZOXSSEK
 
-[Document13]
+[Document14]
 DocumentPath=obc-v2_EXP-I2C-IRQ.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFLFZCUB
 
-[Document14]
+[Document15]
 DocumentPath=obc-v2_EXP-CAN-RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUHXJZKT
 
-[Document15]
+[Document16]
 DocumentPath=obc-v2_CM4-M2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWHSYWYN
 
-[Document16]
+[Document17]
 DocumentPath=obc-v2_CM4-PinOut.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXIPSAOK
 
-[Document17]
+[Document18]
 DocumentPath=obc-v2_CM4-SPI-UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJJTZRHF
 
-[Document18]
+[Document19]
 DocumentPath=obc-v2_CM4-IRQ-CTRL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVDKGFVY
 
-[Document19]
+[Document20]
 DocumentPath=obc-v2_CM4-FUNCTION.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZJQGONC
 
-[Document20]
+[Document21]
 DocumentPath=obc-v2_CM4-CSI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYXZKLSP
 
-[Document21]
+[Document22]
 DocumentPath=obc-v2_CM4-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTSIELKE
 
-[Document22]
+[Document23]
 DocumentPath=obc-v2_MCU-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVFXYQTF
 
-[Document23]
+[Document24]
 DocumentPath=obc-v2_MCU-PinOut.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAMQSYMZ
 
-[Document24]
+[Document25]
 DocumentPath=obc_ver2.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
